@@ -1,8 +1,8 @@
 import time
-
-time.time()
-print("My Hello - World!")
+import re
 
 
 def main():
+    re.compile()
+    time.time()
     return 2 + 1
